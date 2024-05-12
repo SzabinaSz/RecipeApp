@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bite</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="signup">Regisztráció</string>
+    <string name="description">Account icon</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_confirm">Jelszó megerősítése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="loginAsGuest">Bejelentkezés vendégként</string>
+    <string name="pancake_title">Amerikai palacsinta</string>
+    <string name="fish_title">Sült ponty salátaágyon</string>
+    <string name="soup_title">Garnélaleves rizstésztával</string>
+    <string name="user_Name">Felhasználónév</string>
+</resources>
